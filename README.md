@@ -4,6 +4,6 @@
 
  🟦 I’m currently learning JavaScript and QA at SoftUni! 🧑‍🎓
  
- 🟧 I`m currently working as a Technical Support and BackUp SME! 🏢
+ 🟧 I`m working as a Technical Support and BackUp SME! 🏢
 
  
